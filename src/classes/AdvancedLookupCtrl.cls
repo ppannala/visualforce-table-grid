@@ -33,7 +33,7 @@ public with sharing class AdvancedLookupCtrl {
 	// API Name of the SObject referenced by the wrapped inputField
 	public String objectType { get; private set; }	
 	
-	// Value of the wrapped input field
+	// Value of the wrapped input field - Modified
 	public String searchFilter { get; private set; }
 	
 	
